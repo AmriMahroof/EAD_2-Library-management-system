@@ -7,7 +7,6 @@ Prerequisites
 	IntelliJ IDEA.
 
 Importing the project
-	Download the zip file of the project using the git link = https://github.com/Dhanushanandan/LMS_EAD2_CW.git
 	Extract the files and Right click and open with IntelliJ
 	wait until the necessary dependency download it might need internet connection. 
 
